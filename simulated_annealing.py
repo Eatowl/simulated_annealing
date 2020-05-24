@@ -10,7 +10,6 @@ all_links = tree.findall('.//REQUEST')
 max_computer = 20
 
 def generate_list_config(variable_arrival_time):
-
 	list_nodes_time = []
 	start_count = 0
 	count_end = 0
